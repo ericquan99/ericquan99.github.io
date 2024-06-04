@@ -88,6 +88,7 @@ content:
       - layout: left
         title: American Express - Default Prediction
         sub_title: Kaggle Competition
+        caption: November 2022
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -97,12 +98,13 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Final Project for CISC 451/839 Topics in Data Analytics, Grade of 100/100 for Report, 89/100 for Presentation.
+        # quote: >
+        #   Final Project for CISC 451/839 Topics in Data Analytics, Grade of 100/100 for Report, 89/100 for Presentation.
         description: | # this will include new lines to allow paragraphs
           Innovative methods of using MAD in feature engineering in extremely large dataset, decent amount of work in data visualizing & preprocessing, and systematic analysis among machine learning models including LGBM, XGB, LSTM & CATB.
       - layout: left
         title: Predicting a Recession Using Bond Yields with ARIMA
+        caption: April 2021
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -112,8 +114,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Final Project for CISC/CMPE 351 Advanced Data Analytics, Grade of 85/100 for Project.
+        # quote: >
+        #   Final Project for CISC/CMPE 351 Advanced Data Analytics, Grade of 85/100 for Project.
         description: | # this will include new lines to allow paragraphs
           Accurately predicts economic recession. Works include seasonal differencing to remove cyclic trends in time series, parameter tuning with PACF & ACF, model construction using AIC & BIC test, and possible improvements using ARMA-GARCH model.
 
