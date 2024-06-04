@@ -50,7 +50,7 @@ about_profile_image: images/avatar_weizhi.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Weizhi Quan and I am currently a Master of Data Science Student at University of Melbourne.
 
-  I am most skilled in: <mark>Mathematics</mark>, <mark>Data Analysis</mark>, <mark>Machine Learning</mark>, <mark>Python</mark>, <mark>SQL</mark>
+  I am most skilled in: <mark>Mathematics</mark>, <mark>Data Analysis</mark>, <mark>Machine Learning</mark>, <mark>Python</mark>, <mark>SQL</mark>.
 
   My primary research interest is in <mark>data science</mark>, <mark>computational statistics</mark>, and <mark>machine learning</mark>.
 
@@ -63,8 +63,8 @@ content:
         title: University of Melbourne
         caption: February 2024 - Now
         sub_title: Master of Data Science
-        quote: >
-          Postera Crescam Laude
+        # quote: >
+        #   Postera Crescam Laude
         description: | # this will include new lines to allow paragraphs
           -	Currently studying Master of Data Science at University of Melbourne.
           -	Expected to graduate in 2025.
@@ -74,8 +74,8 @@ content:
         title: Queen's University
         caption: September 2018 - June 2023
         sub_title: Bachelor of Science (Honours)
-        quote: >
-          Sapientia et Doctrina Stabilitas
+        # quote: >
+        #   Sapientia et Doctrina Stabilitas
         description: | # this will include new lines to allow paragraphs
           -	Graduated with major in Mathematics, minor in World Language Studies, and certificate in Data Analytics.
           -	Grade of A/A+ in Real Analysis, Fundamental Statistical Inference, Topics in Data Analytics, and Statistical Learning II.
@@ -152,23 +152,23 @@ content:
     layout: list
     content: # this will include new lines to allow paragraphs
       - layout: 
-        title: Queen's University
+        title: Dean's Honour List
         # link: https://www.poizon.com
         # link_text: boringcompany.com
-        caption: September 2018
+        # caption: September 2018
         description: |
-          Principle's Scholarship
+          Queen's University, Winter 2021
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         # description: | # this will include new lines to allow paragraphs
         #   - Intensive use of Pivot Table to analyze data.
       - layout: left
-        title: Queen's University
+        title: Principle's Scholarship
         # link: https://www.poizon.com
         # link_text: boringcompany.com
-        caption: Fall 2020 - Winter 2021
+        # caption: Fall 2020 - Winter 2021
         description: |
-          Dean's Honour List
+          Queen's University, September 2018
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         # description: | # this will include new lines to allow paragraphs
