@@ -51,6 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Weizhi Quan and I am currently a Master of Data Science Student at University of Melbourne.
 
   I am most skilled in: <mark>Mathematics</mark>, <mark>Data Analysis</mark>, <mark>Machine Learning</mark>, <mark>Python</mark>, <mark>SQL</mark>
+
   My primary research interest is in <mark>data science</mark>, <mark>computational statistics</mark>, and <mark>machine learning</mark>.
 
 content:
@@ -85,7 +86,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: American Express - Default Prediction (Competition on Kaggle)
+        title: American Express - Default Prediction
+        sub_title: Kaggle Competition
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -97,8 +99,9 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Final Project for CISC 451/839 Topics in Data Analytics, Grade of 100/100 for Report, 89/100 for Presentation.
-          Index Terms: Mean Absolute Deviation in Feature Engineering, Machine Learning, Data Visualization, Artificial Noise.
         description: | # this will include new lines to allow paragraphs
+          Index Terms: Mean Absolute Deviation in Feature Engineering, Machine Learning, Data Visualization, Artificial Noise.
+
           Innovative methods of using MAD in feature engineering in extremely large dataset, decent amount of work in data visualizing & preprocessing, and systematic analysis among machine learning models including LGBM, XGB, LSTM & CATB.
       - layout: left
         title: Predicting a Recession Using Bond Yields with ARIMA
@@ -113,8 +116,9 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Final Project for CISC/CMPE 351 Advanced Data Analytics, Grade of 85/100 for Project.
-          Index Terms: Time Series Analysis, Time Series Forecasting Method, ARIMA Model, Recession Prediction.
         description: | # this will include new lines to allow paragraphs
+          Index Terms: Time Series Analysis, Time Series Forecasting Method, ARIMA Model, Recession Prediction.
+
           Accurately predicts economic recession. Works include seasonal differencing to remove cyclic trends in time series, parameter tuning with PACF & ACF, model construction using AIC & BIC test, and possible improvements using ARMA-GARCH model.
 
   - title: Internship # Title for the section
@@ -136,7 +140,7 @@ content:
         link: https://www.earlydata.com/en/home_en/
         # link_text: boringcompany.com
         sub_title: Content Specialist
-        caption: September 2023 - December 2023
+        caption: March 2022 - August 2022
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -147,22 +151,24 @@ content:
   - title: Honours & Awards
     layout: list
     content: # this will include new lines to allow paragraphs
-      - layout: left
+      - layout: 
         title: Queen's University
-        link: https://www.poizon.com
+        # link: https://www.poizon.com
         # link_text: boringcompany.com
-        sub_title: Principle's Scholarship
         caption: September 2018
+        description: |
+          Principle's Scholarship
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         # description: | # this will include new lines to allow paragraphs
         #   - Intensive use of Pivot Table to analyze data.
       - layout: left
         title: Queen's University
-        link: https://www.poizon.com
+        # link: https://www.poizon.com
         # link_text: boringcompany.com
-        sub_title: Dean's Honour List
         caption: Fall 2020 - Winter 2021
+        description: |
+          Dean's Honour List
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         # description: | # this will include new lines to allow paragraphs
